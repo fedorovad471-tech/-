@@ -10,7 +10,7 @@
 
 # A few memes about programming
 ![alt text](https://cs13.pikabu.ru/post_img/big/2021/01/31/6/161208022211434908.jpg)
-![alt text](https://cs16.pikabu.ru/s/2025/08/28/10/qg5si2xu_lg.jpg)
+![alt text](https://www.androidauthority.com/wp-content/uploads/2016/02/code-meme-16x9-trimmed.jpg)
 ![alt text](https://cs17.pikabu.ru/s/2025/11/23/16/wm3flnpy_lg.jpg)
 
 **You can find C++ hints** [here](https://cppreference.com/)
